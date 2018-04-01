@@ -1,4 +1,4 @@
-## Simple twitter authentication 
+## Twitter authentication, gets twitter activity feeds, and post tweet
 # created by Danica Durana
 
 
