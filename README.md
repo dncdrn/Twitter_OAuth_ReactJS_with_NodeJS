@@ -1,4 +1,4 @@
-## Code exercise from Telepathy Labs
+## Simple twitter authentication 
 # created by Danica Durana
 
 
